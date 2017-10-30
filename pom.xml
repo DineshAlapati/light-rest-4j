@@ -17,7 +17,7 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.dineshalapati</groupId>
+    <groupId>com.github.dineshalapati</groupId>
     <artifactId>light-rest-4j</artifactId>
     <version>1.5.0</version>
     <packaging>pom</packaging>
@@ -99,146 +99,146 @@
         <dependencies>
             <!-- Modules in this project -->
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>swagger-meta</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>swagger-validator</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>swagger-security</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>config</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>utility</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>security</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>client</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>audit</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>dump</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>info</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>health</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>status</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>exception</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>body</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>mask</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>handler</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>metrics</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>sanitizer</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>traceability</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>correlation</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>service</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>switcher</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>registry</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>balance</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>consul</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>zookeeper</artifactId>
                 <version>${version.light-4j}</version>
                 <optional>true</optional>
             </dependency>
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>server</artifactId>
                 <version>${version.light-4j}</version>
             </dependency>
             <!-- External dependencies -->
 
             <dependency>
-                <groupId>com.DineshAlapati</groupId>
+                <groupId>com.github.dineshalapati</groupId>
                 <artifactId>json-schema-validator</artifactId>
                 <version>${version.json-schema-validator}</version>
             </dependency>
